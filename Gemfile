@@ -47,3 +47,5 @@ end
 
 # use Haml for templates
 gem 'haml'
+
+#this is a chnage
