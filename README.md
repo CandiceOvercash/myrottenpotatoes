@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # myrottenpotatoes
+=======
+<<<<<<< HEAD
+# myrottenpotatoes
+=======
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -17,6 +23,7 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+# myrottenpotatoes
 
 
 I am updating the readme file as a test
